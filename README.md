@@ -1,2 +1,7 @@
 # buidoi
-hello
+
+### Install
+ làm sao
+
+###Usage
+
